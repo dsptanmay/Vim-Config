@@ -14,4 +14,16 @@ Then, ensure that your setup screens look like the ones in the ```demo``` folder
 Now, onto using Vim with the plugins.
 
 
-First, download this repo using the [download](https://github.com/dsptanmay/Vim-Config/archive/main) button.
+First, [Download](https://github.com/dsptanmay/Vim-Config/archive/main.zip) this repo.
+
+Then, extract the files to a folder. 
+
+
+Now, copy vimfiles and .vimrc to C:\Users\<your-username>
+
+
+Now, open a shell like ```cmd``` or ```powershell```
+
+
+Type ```vim``` to get started. The plugins required will be installed automatically if Git was set up sucessfully.
+
