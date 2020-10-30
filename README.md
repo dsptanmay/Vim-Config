@@ -9,3 +9,9 @@ Install git from https://gitforwindows.org/. Make sure to install the 64 bit ver
 Run the ```.exe``` file that you just downloaded.
 
 Then, ensure that your setup screens look like the ones in the ```demo``` folder
+
+
+Now, onto using Vim with the plugins.
+
+
+First, download this repo using the download button.
