@@ -19,7 +19,7 @@ First, [Download](https://github.com/dsptanmay/Vim-Config/archive/main.zip) this
 Then, extract the files to a folder. 
 
 
-Now, copy vimfiles and .vimrc to C:\Users\<your-username>
+Now, copy `\vimfiles` and `.vimrc` to `C:\Users\<your-username>`
 
 
 Now, open a shell like ```cmd``` or ```powershell```
