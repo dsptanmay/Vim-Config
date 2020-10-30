@@ -14,4 +14,4 @@ Then, ensure that your setup screens look like the ones in the ```demo``` folder
 Now, onto using Vim with the plugins.
 
 
-First, download this repo using the download button.
+First, download this repo using the [download](https://github.com/dsptanmay/Vim-Config/archive/main) button.
