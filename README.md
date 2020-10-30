@@ -1,6 +1,9 @@
 # Vim-Config
 A repo containing my vimrc and all my config files for vim 8.3. (For Windows 10)
 
+### NOTE: This setup was created with the intent of Python Usage.
+
+If you need to edit other languages then you might need to install additional packages as per the requirements of that language
 
 ## Usage
 
